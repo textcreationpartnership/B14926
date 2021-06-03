@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A coppie of the proclamation made by the illustrous Infanta Isabella Clara Eugenia, soueraigne princesse of the Netherlands, and the Countie of Burgundie Touching the defence, interdiction and restraint of all communication, dealing and trafficke with Holland, Zeland and their adherents. Faithfully translated out of the printed copie, printed at Antwerpe.</title>
+            <title>Proclamations. 1599 Feb. 9</title>
+            <author>Netherlands. Sovereign (1598-1621 : Albert and Isabella).</author>
+         </titleStmt>
+         <extent>Approx. 21KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B14926</idno><idno type="EEBO-CITATION">99848399</idno>
+  <idno type="VID">176509</idno>
+  <idno type="EEBO-PROQUEST">2240906667</idno>
+  <idno type="STC">STC 18470</idno>
+  <idno type="STC">ESTC S113160</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99848399e"/>
+            <note>(EEBO-TCP ; phase 2, no. B14926)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176509)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 325:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A coppie of the proclamation made by the illustrous Infanta Isabella Clara Eugenia, soueraigne princesse of the Netherlands, and the Countie of Burgundie Touching the defence, interdiction and restraint of all communication, dealing and trafficke with Holland, Zeland and their adherents. Faithfully translated out of the printed copie, printed at Antwerpe.</title>
+                  <title>Proclamations. 1599 Feb. 9</title>
+                  <author>Netherlands. Sovereign (1598-1621 : Albert and Isabella).</author>
+                  <author>Isabel Clara Eugenia, Infanta of Spain, 1566-1633.</author>
+               </titleStmt>
+               <extent>13, [3] p.   </extent>
+               <publicationStmt>
+                  <publisher>By [Edward Allde for] Iohn Wolfe, and are to be solde at his shop in Popes head Alley, neere the Exchange,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1599.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated at end: Giuen .. the ix. of Februarie, 1599.</note>
+                  <note>Actual printer's name from STC.</note>
+                  <note>The last leaf is blank.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Netherlands --  History --  Wars of Independence, 1556-1648 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Amanda Flynn </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Amanda Flynn</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:176509:1"/>
+            <pb facs="tcp:176509:1"/>
+            <p>A COPPIE OF THE PROCLAMA<g ref="char:EOLhyphen"/>TION MADE BY THE illustrous Infanta Isabella Clara Eugenia, Soueraigne Princesse of the Netherlands, and the Countie of Burgundie. Touching the defence, interdiction and re<g ref="char:EOLhyphen"/>straint of all communication, dealing and trafficke with Holland, Zeland and their adherents.</p>
+            <p>Faithfully translated out of the Printed Copie, printed at Antwerpe.</p>
+            <figure>
+               <figDesc>Framed printer's device showing a fleur-de-lys with two cherubs and the initials I. W. (McKerrow, 294).</figDesc>
+            </figure>
+            <p>Imprinted at London by Iohn Wolfe, and are to be solde at his shop in Popes head Alley, neere the Exchange. 1599.</p>
+         </div>
+      </front>
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:176509:2"/>
+            <pb facs="tcp:176509:2"/>
+            <head>¶ A Coppie of the Proclamation, <hi>made by the illustrious Infanta Isabella</hi> Clara Eugenia, Soueraigne Princesse of the Netherlands, and the Countie of Burgundie: Touching the defence of the trafficke with Holland, Zeland, and their adherents.</head>
+            <byline>By hir Highnesse.</byline>
+            <p>
+               <seg rend="decorInit">T</seg>O our beloued and trusty, the Chan<g ref="char:EOLhyphen"/>celor and others of our counsaile in Brabant, greeting. It is knowne and manifest, not only to all our sub<g ref="char:EOLhyphen"/>iects, but to all the world; how many and what dilligences and endeuours haue beene vsed, sithence the begin<g ref="char:EOLhyphen"/>ning of these Netherlandish troubles and commotions, aswell by the late high laudable memorie, the King <hi>Phillip,</hi> the second of that name, our beloued Lorde and Father (whose soule God re<g ref="char:EOLhyphen"/>ceiue in his mercie) and by his Lieutenants and generall Gouernours of our hereditarie Netherlands, as also by diuers and sundrie Princes and Potentates of Christen<g ref="char:EOLhyphen"/>dome, his late Maiesties good friends and allyes, tending altogether to the reconciliation of our subiects &amp; vassailes of <hi>Holland</hi> and <hi>Zealand,</hi> and their adherents, and to reduce and bring them againe, vnder the dewe and decent obedi<g ref="char:EOLhyphen"/>ence
+<pb n="4" facs="tcp:176509:3"/> of his royall Maiestie, who hath likwise sought to enduce the said reuolted Prouinces, first by offers and presentations of pardon and obliuion of faults past, and afterwardes by armes and force (vnwilling as yet to vse the vttermost rigor) in hope to mooue and reduce them through the one or the other meanes, to the vnion of his o<g ref="char:EOLhyphen"/>ther vassailes and subiects, in such sorte and manner as héeretofore they haue bene vnder the obedience of the late laudable and neuer dying memorie of the Emperor <hi>Char<g ref="char:EOLhyphen"/>les</hi> the fift of that name, our Lord and Grandfather vnto these last commotions and alterations, whereout is sprung this gréeuous and cruell warres, as yet continu<g ref="char:EOLhyphen"/>ing.</p>
+            <p>Notwithstanding which warres, his royall Maie<g ref="char:EOLhyphen"/>stie hath suffered and fréely permitted vnto the aforesaid Hollanders and their adherents to vse their trade of Mar<g ref="char:EOLhyphen"/>chandise and trafficke, as well in his Realme of <hi>Spaine,</hi> as on this side by pasports and meanes of licences, to the ende they should not lose the nauigation, fishing and trafficke, whereby those of <hi>Holland, Zealand,</hi> and other Sea borde<g ref="char:EOLhyphen"/>ring landes maintaine themselues. As also fearing that the saide trafficke and negotiation should be transported to other straunge nations which do enuy the same. And the aforesaid of <hi>Holland</hi> and <hi>Zealand</hi> finde and experiment, how much other do labor to attaine it, to the great damage and hinderance of them, and all our other subiects. But all that hath bene in vaine. For in steade of acknowledging the same, they are become the more obstinate and harde<g ref="char:EOLhyphen"/>ned, not the common people (which of nature are good, kinde, louing, and courteous) but by the wicked instiga<g ref="char:EOLhyphen"/>tion and practises of some which haue thrust themselues, in the ruling and gouerning of the countries affaires, ma<g ref="char:EOLhyphen"/>king their profit of the spoyle of others.</p>
+            <p>Such that without respecting the good conditions and
+<pb n="5" facs="tcp:176509:3"/> offers which haue bene made them in the treatise of peace, heeretofore held at <hi>Breda,</hi> and afterwards at <hi>Collen,</hi> by the authoritie &amp; interuention of the Emperour, the Prin<g ref="char:EOLhyphen"/>ces Electors, Princes and Potentates of the holy Empire there hath not any thing else followed. Although that ac<g ref="char:EOLhyphen"/>cording to euery ones censure and iudgement, the said of<g ref="char:EOLhyphen"/>fers were both mercifull, laudable and reasonable. As al<g ref="char:EOLhyphen"/>so little hath aduaunced (in their regarde) the sending of the Embassadours and Deputies in these our aforesaide Ne<g ref="char:EOLhyphen"/>therlands, comming in the name and behalfe of his Impe<g ref="char:EOLhyphen"/>riall Maiestie, to renew and further the aforesaid treatise of peace, and to mooue the parties to a willing agree<g ref="char:EOLhyphen"/>ment.</p>
+            <p>Which Embassadours were at that time most ho<g ref="char:EOLhyphen"/>nourably receiued and heard, by and in the behalfe of the generall Gouernour of this side, where to the contrarie, those of <hi>Holland</hi> and <hi>Zealand,</hi> did not so much respect or est<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eiue them, as to let them come to then presence, but minde them to returne, without seeing or hearing them, not<g ref="char:EOLhyphen"/>withstanding that they greatly requested and desired to haue audience, that they might deliuer vp their message giuen them in charge.</p>
+            <p>The Gouernours of the saide Prouinces of <hi>Holland,</hi> and <hi>Zealand,</hi> little respecting or regarding, the great mise<g ref="char:EOLhyphen"/>ries, damages, charges and spoyles, which the holye Em<g ref="char:EOLhyphen"/>pire and all Christendome, haue many and s<gap reason="illegible" resp="#pdcc" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>r<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e times heere of lats, and doe yet dasly endure, through this most cruell, bloudie, and endlesse warre, especially the neighbor Countries: yea they haue not ceased, vntill that they haue drawne and brought with them to the warres, all such persons, as one could imagine, the more to enda<g ref="char:EOLhyphen"/>mage, weaken, trouble and disturbe his late Maiestie, and all his good and faithfull Subiects, Realmes, Lands and dominions.</p>
+            <pb n="6" facs="tcp:176509:4"/>
+            <p>By reason wherof these warres hath duredso long, with<g ref="char:EOLhyphen"/>out yet that they are any waies glutted with the bloode which on both sides hath bene spilt, In such sort, that the Turke, the common enemie of Christendome hath taken occasion, to make warres in <hi>Hungarie</hi> and other coun<g ref="char:EOLhyphen"/>tries of <hi>Europe,</hi> where hee hath had such successe as euery one knoweth. And therefore his aforesaid Emperiall Ma<g ref="char:EOLhyphen"/>iestie, and the holy Empire in the deputed daies at two se<g ref="char:EOLhyphen"/>uerall times held at <hi>Regens borgh,</hi> (or <hi>Ratisbona</hi>) haue al<g ref="char:EOLhyphen"/>waies prepounded &amp; declared their feruent desires to the extingushing of these broyles; &amp; to procure the rest &amp; wel<g ref="char:EOLhyphen"/>fare of our aforesaid <hi>Netherlands.</hi> Hauing concluded, not<g ref="char:EOLhyphen"/>withstanding the litle respect, estimation, &amp; great insolencie which those of <hi>Holland</hi> &amp; their adherents had vsed in their behalfe (as is aforesaid) towards their former messages to send them a new Embassage. Wherof the end and successe as yet is doubtfull and vncertaine.</p>
+            <p>Those of <hi>Holland</hi> aforesaid, mean while shewing them<g ref="char:EOLhyphen"/>selues very abstinate and stout, by reason of some exployts which haue succeeded them well, whilest the late kings campes were busied about the warres in <hi>France.</hi> Which also was caused by their tumultuous factions. And al<g ref="char:EOLhyphen"/>though that by the grace of God the saide warre is now laid down, by reason of the peace contracted with the king of <hi>France.</hi> Who sought to procure of our Lord and father, that those of <hi>Holland</hi> and their adherents might bee com<g ref="char:EOLhyphen"/>prehended in a generall agreement. The same hath so bene graunted him. And therevpon the said king of <hi>France</hi> hath admonished those of <hi>Holland</hi> to condiscend therevno, ther<g ref="char:EOLhyphen"/>by to set Christendome iurest and quietnesse. Wherevpon their Commissioners and Deputies were along while ex<g ref="char:EOLhyphen"/>pected at <hi>Verum,</hi> and the saide time by reason thereof was prolonged. But they notwithstanding all that, not estee<g ref="char:EOLhyphen"/>med the same, but to the contrarie haue sought by all their possible meanes to hinder and disturbe the saide peace of <hi>France:</hi> when seeing that they could not do it, by reason of
+<pb n="7" facs="tcp:176509:4"/> the good inclination of the king to the said peace, they de<g ref="char:EOLhyphen"/>sist not from their dogunne warres, onely instigated and set on by some wicked and <gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ur<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ulent spirites their Gouer<g ref="char:EOLhyphen"/>nours, which care for nothing but for the continuance of their gouernment. In such sort, that they hinder that our other subiects of this side, cannot enioy the benefite of the peace, which our late Lord and Father minded to haue procured them by means of the aforesaid agreement with <hi>France.</hi>
+            </p>
+            <p>We will not moreouer heere forget to say, that the bet<g ref="char:EOLhyphen"/>ter to shunne all occasions of mistrust (wherevpon the ene<g ref="char:EOLhyphen"/>mies of the common welfare, alwayes founded their obsti<g ref="char:EOLhyphen"/>nacies saying, that the Gouernours vnder which they should liue, were Spaniards and strangers) our aboue na<g ref="char:EOLhyphen"/>med Lord, father, found requisite hauing some yeres past, send ouer for the generall gouernment of our aforesaid he<g ref="char:EOLhyphen"/>reditarie Netherlands, his good brother and Nephew the late Archeduke <hi>Ernestus,</hi> and after his decease, his god<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap> brother and Nephew the Archeduke <hi>Albertus,</hi> at this pre<g ref="char:EOLhyphen"/>sent our beloued Lorde and spouse, both sonnes and bro<g ref="char:EOLhyphen"/>thers to the Emperor, and born in Germanie: mercifull and louing Princes, wholy giueuand inclined to the com<g ref="char:EOLhyphen"/>mon welfare and reconciliation of the reuolted Prouinces, as in effect they haue well shewed it. For immedially af<g ref="char:EOLhyphen"/>ter their arriuall and entrance into the aforesaid gouerne<g ref="char:EOLhyphen"/>ment, they haue (according to the charge which they had receiued of our said late Lorde and father) vsed all possible endeuours and dilligences, by all amiable meanes to re<g ref="char:EOLhyphen"/>call and reduce the said enemies o their dutiful obedience, hauing the aforesaid the late Arch duke <hi>Ernestus</hi> not only writte vnto the, but also dispatched expresse persons to de<g ref="char:EOLhyphen"/>nounce and declare vnto them, the good will and intention of our late Lord and Father, as also the like hath continu<g ref="char:EOLhyphen"/>ally ben doll by the aforesaid Archduke <hi>Albertus</hi> by many and sundrie manners and demonstrations, as well in ge<g ref="char:EOLhyphen"/>nerall as particular, to giue them notice of the selfe same
+<pb n="8" facs="tcp:176509:5"/> good will and inclination.</p>
+            <p>But the same hath likewise bene in vaine and to he ende, as to euery one is most manifest, so much is this poore people blinded and held in subiect ion by those which haue vsurped the rule and administration of the land, on them that they cannot take hold of any good opportunitie. yea which is more, his late royall Maiestie, more appa<g ref="char:EOLhyphen"/>rantly and by a notable act to shew that he desired nothing more then the generall rest and welfare of all his subiects, without any suspition, hath taken a resolution which was said to be onely resting to giue them with heaped measure, the onely thing which the estates of this side had so earnest<g ref="char:EOLhyphen"/>ly required, for an eternal securitie of their freedome and preseruatiue of their preuiledges, to wit: That our aforesaide Lorde and Father hath beene contented to giue them a Soueraigne Prince, by themselues, hauing thereto and in marriage of vs as his eldest daughter, giuen and transported vnto vs all these lands of this side, with the Countie of <hi>Burgundie.</hi> And his royall Maiestie hath royally and solemnely effected the same, with the consent of his onely sonne, the now king our Lord and brother. And the more to assure his saide subiects of the good and vnfai<g ref="char:EOLhyphen"/>ned loue and affection which he bore them, he had granted vs the aforesaid gift &amp; transportation, vpon expresse con<g ref="char:EOLhyphen"/>dition that wée should marrie the said Arche duke <hi>Alber<g ref="char:EOLhyphen"/>tus,</hi> who had had the general gouernment there very nere thrée yeares long: and during the same, obtained diuers victories, and at last concluded and established the peace with <hi>France.</hi>
+            </p>
+            <p>In so much that truly may it be saide, that our late Lord and father hath not omitted any thing, which by a mercifull and louing Prince might be imagined lawfull, or that ought by him to be done, to reduce the said lands to the vnion of the other Prouinces, as by all godly &amp; world<g ref="char:EOLhyphen"/>ly rights and lawes they are bound to do, and ought to de<g ref="char:EOLhyphen"/>sire the same, for their owne welfare and quietnesse.</p>
+            <pb n="9" facs="tcp:176509:5"/>
+            <p>For God and Nature seeme in such fort to haue conioyned these <hi>Netherlands</hi> euen to <gap reason="illegible" resp="#pdcc" extent="2 letters">
+                  <desc>••</desc>
+               </gap>aine to the perfect &amp; highest wealth of worldly felicitie, as heeretofore they haue beene séene in, because that they can hardly spare one another.</p>
+            <p>Which all notwithstanding it is far from thē, that there<g ref="char:EOLhyphen"/>by they should any <gap reason="illegible" resp="#pdcc" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> mooued or inclined to reconcili<g ref="char:EOLhyphen"/>ation: but to the <gap reason="illegible" resp="#pdcc" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> are growne more obstinate thē euer before, without giuing care to any reason. And which is woorse, haue and do ye<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap> daily all their best endeuours, to hinder and disturbe the peace with the neighbour Prin<g ref="char:EOLhyphen"/>ces, as they had done in <hi>France.</hi> And whereas the Arche<g ref="char:EOLhyphen"/>duke <hi>Albertus</hi> as then <gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ouernour Generall had bene be<g ref="char:EOLhyphen"/>sought by the Deputies of the Generall Estates of this side, (assembled in our cittie of <hi>Brussell</hi>) to receiue vs and hold vs for their souer <gap reason="illegible" resp="#pdcc" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Ladie and Princesse<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, to the end they might in their behalfe write letters to the aboue<g ref="char:EOLhyphen"/>named. Estates of <hi>Holland</hi> and their adherents, to mooue them to a peace and vni<gap reason="illegible" resp="#pdcc" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <gap reason="illegible" resp="#pdcc" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the obedience of one head and Prince as they were before: the said Arche-duke hath graunted them the same. And accordingly the gene<g ref="char:EOLhyphen"/>rall estates haue in most <gap reason="illegible" resp="#pdcc" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> sort written their let<g ref="char:EOLhyphen"/>ters, and font them <gap reason="illegible" resp="#pdcc" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> by an especiall person, who was returned backe againe without any resolution, saying that they could not giue any answere vpon it, by reason of the absence of some of their chiefest, In such sort that al hath not holpe, which is a matter altogither intollerable, and not in any wise do be borne with. And which vndoubted<g ref="char:EOLhyphen"/>ly springeth from a resolute obstinacie, to personer in their wickednesse and ingratitude against God, their Prince, and their Patrimonie. At least those which there haue authoritie ouer the others, without once to consider, that through the aforesaid continuation of the warre, the holy kingdome is charged (as before) Christendome ouerrunne by the Turkish hoasts. And all these aforesaide <hi>Nether<g ref="char:EOLhyphen"/>lands</hi> charged, endamaged, and spoyled, on the one side and
+<pb n="10" facs="tcp:176509:6"/> on the other, the aforesaid Gouernors making the people beléeue, that they loose not by these warres, that they find no want of any commodities. Also that they wholely vse the fishing, nauigation, and trafficke as much as if they were in a sure peace, yea that they are richer and mightier then if they were in peace. All which proceedes principally, by reason that they hath bene permitted fréely to traffike and trade into <hi>Spaine,</hi> together in the Countries of this side, by meanes of pasportes and licences, also by permission of the frishing and such like, which haue done nothing but feede the warres.</p>
+            <p>By all which our aforesaid Lord and brother the King, perceiuing how much the said Hollanders. &amp; I haue abu<g ref="char:EOLhyphen"/>sed the méekenesse and patience of our late Lord and Fa<g ref="char:EOLhyphen"/>ther, hath lately defended and forbidden to deale or trafficke with them, vntill such time as they should bee returned to their due obedience. As also we vnwilling to ouerslippe any occasion, but to prooue and essay all possible meanes to attaine to our intention, to maintaine our good subiects in peace, and to reduce and set in the right way those which are strayed, hauing caused the whole to be<gap reason="illegible" resp="#pdcc" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ripely conside<g ref="char:EOLhyphen"/>red, not onely by our Counsell, beeing next to the person of our beloued Nephew <hi>Andreas</hi> Cardinall of <hi>Austria,</hi> &amp;c. at this present Liefetenant; Gouernour and Captaine generall of our said lands on this side: but also by many good persons of the aforesaid states. And considering that hetherto by the said means of méeknesse and kindnesse, no<g ref="char:EOLhyphen"/>thing hath bene profited, but that to the contrarie thereby they are growne more vnreasonable and prouder, and that meanes is giuen them, to maintaine the warres, to their great furtherance:</p>
+            <p>SO IT IS, that after good and ripe consultation and aduise of our Counsell of estate, secrets and treasure, and vppon the deliberation of our aforesaide Nephew the Cardinall of <hi>Austria,</hi> &amp;c. wee haue wholly defended, for<g ref="char:EOLhyphen"/>bidden
+<pb n="9" facs="tcp:176509:6"/> and prohibited: and defend, forbid, and prohibit, by these presents, all o<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap> any communication, trafficke and neg<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tiation, with the aforesaid of <hi>Holland, Zealand,</hi> and all their adherents, eyther, our Subiects or others, vntill such time as they shall be reconciled to his Maiestie, or to vs their Soueraigne Ladie and Princesse, as according to all deuine and humaine lawes they are haunde to doe.</p>
+            <p>Forbidding therefore to all and euery one, to send, con<g ref="char:EOLhyphen"/>naye, or transporte by Sea, fresh waters, or by land, di<g ref="char:EOLhyphen"/>rectly or indirectly, any money goods, Merchandizes, or anye other things whatsoeuer, nor yet to bring out of the aforesaide reuolted Countries hether, any wares, Merchandizes, or other things, growing, comming or passing through the same lands; Vppon paine of confisca<g ref="char:EOLhyphen"/>tion of the said wares and Marchandizes, and of extraordi<g ref="char:EOLhyphen"/>narie punishment, according to the nature of the misdeeds: from hence forwarde recalling and reuoking all permissi<g ref="char:EOLhyphen"/>ons, graunts, &amp; licences, which we, or our generall Lieu<g ref="char:EOLhyphen"/>tenants haue granted. As also we recall and reuoke all pasports, &amp; for the selfe same cause, we likewise annullate and Cashéere all Safeguards and permissions which we haue graunted and yéelded, to fish, to whome so euer it be. And touching the pasports for the going and comming of persons, we recall them likewise: but graunt and permit them, that euery one may returne to his place of residence and dwelling, within the terme of one moneth after the publication of these presents. All without in any sorte to exclude our subiects out of our fauour, or to cut them the way of reconciliation and mercie, at such times as they shall require if, presenting to that ende the same offers, which haue héeretofore béene made them, and haue, and shall be found reasonable. All which we will haue mani<g ref="char:EOLhyphen"/>fest, not onely to our aforesaide subiects, obedient and diso<g ref="char:EOLhyphen"/>bedient, but also to all the world. And to the ende, that no
+<pb n="12" facs="tcp:176509:7"/> one should pretend ignorance of this our present ordinance, Interdiction and defence: We will and command, that immediatlie without delaye, you publish and Proclaime the same in euery Cittie and place of our land and Duke<g ref="char:EOLhyphen"/>dome of <hi>Braban<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> and of <hi>Ouermueze,</hi> where publications and Proclamations are vsed to be done: and to the main<g ref="char:EOLhyphen"/>tenance and obseruation héereof, and what there vnto be<g ref="char:EOLhyphen"/>longeth, we giue you full power, authoritie and especiall charge, to execute, and cause to be executed, against the transgressors and affendors héereof, the paines aboue na<g ref="char:EOLhyphen"/>med, without any fauour, distimulation, or for bearance: Willing and commaunding to all and euery one, earnestly to effect the same: For such is our will and pleasure.</p>
+            <closer>
+               <dateline>Giuen in our Cittie of <hi>Antwarpe,</hi> vnder our counter<g ref="char:EOLhyphen"/>seale héereon Imprinted in Placcat, <date>the ix. of Februarie, <hi>1599.</hi>
+                  </date>
+               </dateline>
+               <signed>By hir Highnesse, in hir Counsell. Verreyken.</signed>
+            </closer>
+         </div>
+         <div type="postscript">
+            <pb n="13" facs="tcp:176509:7"/>
+            <p>And these Letters are sealed with the counter seale of hir Highnesse thereon Imprinted in Placcat.</p>
+            <p>The like Proclamations haue béene dispatched, <hi>Mutatis Mutandis,</hi> for <hi>Gelderland, Flanders</hi> and <hi>Mallines,</hi> and in Frenche for <hi>Artoys.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <figure>
+                  <figDesc>Woodcut printer's device of an old man standing beside an olive tree; above him, on a scroll, the motto 'Noli altum sapere' (McKerrow, 310)</figDesc>
+               </figure>
+            </p>
+            <p>
+               <hi>Imprinted at London by Iohn Wolfe, and are to be solde at his shop in Popes head Alley, neere the Exchange.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
